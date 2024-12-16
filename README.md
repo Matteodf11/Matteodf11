@@ -13,9 +13,6 @@ My goals for **2024** include:
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matteodf11&layout=compact&theme=radical)
 
-## Achievements 🏆
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Matteodf11&theme=radical&no-frame=true&column=4)
-
 ## Let's Connect
 Feel free to reach out to me for collaboration, learning opportunities, or just to say hi!  
 📧 Email: [matteodf2008@gmail.com](mailto:matteodf2008@gmail.com)  
