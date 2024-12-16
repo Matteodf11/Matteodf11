@@ -3,7 +3,7 @@
 ## About Me
 Hi, I'm Matteo, a passionate **DAM student** currently expanding my skills in software development. I have experience with **Java** and am diving into the world of **Kotlin**.  
 
-My goals for **2024** include:  
+My goals for **2025** include:  
 - Enhancing my expertise as a **mobile developer**.  
 - Developing a solid foundation in **UI/UX design** to create user-centered applications.  
 
