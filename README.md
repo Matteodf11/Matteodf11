@@ -8,13 +8,13 @@ My goals for **2024** include:
 - Developing a solid foundation in **UI/UX design** to create user-centered applications.  
 
 ## GitHub Stats 📊
-![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=matteodf2008&show_icons=true&theme=radical)
+![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matteodf11&show_icons=true&theme=radical)
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteodf2008&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matteodf11&layout=compact&theme=radical)
 
 ## Achievements 🏆
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=matteodf2008&theme=radical&no-frame=true&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Matteodf11&theme=radical&no-frame=true&column=4)
 
 ## Let's Connect
 Feel free to reach out to me for collaboration, learning opportunities, or just to say hi!  
