@@ -7,17 +7,18 @@ My goals for **2024** include:
 - Enhancing my expertise as a **mobile developer**.  
 - Developing a solid foundation in **UI/UX design** to create user-centered applications.  
 
-## Skills
-- Programming Languages: Java, Kotlin (in progress)  
-- Tools: Android Studio, IntelliJ IDEA, NetBeans  
-- Interests: Mobile Development, User Interfaces, and Cross-Platform Development  
+## GitHub Stats 📊
+![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=matteodf2008&show_icons=true&theme=radical)
+
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteodf2008&layout=compact&theme=radical)
+
+## Achievements 🏆
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=matteodf2008&theme=radical&no-frame=true&column=4)
 
 ## Let's Connect
 Feel free to reach out to me for collaboration, learning opportunities, or just to say hi!  
 📧 Email: [matteodf2008@gmail.com](mailto:matteodf2008@gmail.com)  
-
-## Fun Fact
-I believe coding isn't just about solving problems; it's about building solutions that matter. 🚀  
 
 ---
 Thanks for visiting my profile! 💻 Let's code and design amazing things together!
